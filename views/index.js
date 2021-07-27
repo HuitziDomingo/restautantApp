@@ -1,0 +1,6 @@
+export { default as DetailPlate } from './DetailPlate'
+export { default as FormPlate } from './FormPlate'
+export { default as Menu } from './Menu'
+export { default as NewOrder } from './NewOrder'
+export { default as ProgressRequested } from './ProgressRequested'
+export { default as OrderSummary } from './OrderSummary'
